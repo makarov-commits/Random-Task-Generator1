@@ -1,5 +1,4 @@
 # Random-Task-Generator1
-markdown
 # Random Task Generator (Генератор случайных задач)
 
 **Автор:** Черепашкова Екатерина
